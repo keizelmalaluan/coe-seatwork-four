@@ -6,5 +6,5 @@ var joinArray = function (kei, bnk){
 	sg+=kei[kei.length-1];
 		console.log(sg);
 }
-var myColor = ["nblu","red"];
-joinArray(myColor, '=');
+var myColor = ["Mario","Jenny","Pusti"];
+joinArray(myColor, '<3');
